@@ -1,0 +1,7 @@
+title: Ai Chatboat
+theme: jekyll-theme-primer
+
+exclude:
+  - node_modules
+  - backend/node_modules
+  - frontend/node_modules
